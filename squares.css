@@ -1,0 +1,20 @@
+.wrapper{
+	display:block;
+	width: 620px;
+	margin: -5px auto;
+
+}
+
+
+.square{
+	border: 1px solid black;
+	padding: 10px;
+}
+
+.row{
+	width: 100%;
+}
+
+.highlight{
+	background: #f47fe4;
+}
